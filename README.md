@@ -34,6 +34,7 @@ psychiatric-gene-expression-ml/
 │   ├── 04_pca_experiments.ipynb
 │   └── 05_elastic_net.ipynb
 ├── data/
+│   ├── README.md
 │   ├── geo/
 │   └── processed/
 ├── README.md
@@ -58,22 +59,6 @@ Evaluation uses accuracy, macro-F1, precision, recall and confusion matrices. Pr
 ## Setup and Installation
 
 **Requirements:** Python and the packages listed in `requirements.txt`.
-
-Create and activate a virtual environment, then install the dependencies.
-
-On Windows:
-
-```bash
-python -m venv .venv
-.venv\Scripts\activate
-python -m pip install -r requirements.txt
-```
-
-If JupyterLab is included in the requirements, start it with:
-
-```bash
-jupyter lab
-```
 
 ## Running the Project
 

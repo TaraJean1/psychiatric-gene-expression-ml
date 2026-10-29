@@ -1,8 +1,19 @@
 
+
+# Core data handling
 numpy
 pandas
-scikit-learn
-matplotlib
-seaborn
-jupyter
+
+# GEO dataset download and parsing
+requests
 GEOparse
+
+# Machine learning and evaluation
+scikit-learn
+
+# Plotting
+matplotlib
+
+# Running the notebooks
+jupyterlab
+ipykernel
