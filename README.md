@@ -38,7 +38,8 @@ psychiatric-gene-expression-ml/
 │   ├── geo/
 │   └── processed/
 ├── README.md
-└── requirements.txt
+├── AIassistancedeclaration.md
+└── requirements.md
 ```
 
 ## Methods
